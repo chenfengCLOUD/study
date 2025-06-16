@@ -1,0 +1,17 @@
+--bare
+-I
+/run/media/root/study/qt/video/FC/demo/build/Desktop_Qt_6_9_1-Debug
+-I
+/opt/Qt/6.9.1/gcc_64/qml
+--resource
+/run/media/root/study/qt/video/FC/demo/build/Desktop_Qt_6_9_1-Debug/.qt/rcc/qmake_demo.qrc
+--resource
+/run/media/root/study/qt/video/FC/demo/build/Desktop_Qt_6_9_1-Debug/.qt/rcc/appdemo_raw_qml_0.qrc
+/run/media/root/study/qt/video/FC/demo/Main.qml
+/run/media/root/study/qt/video/FC/demo/Actions.qml
+/run/media/root/study/qt/video/FC/demo/Content.qml
+/run/media/root/study/qt/video/FC/demo/Dialogs.qml
+/run/media/root/study/qt/video/FC/demo/Main.qml
+/run/media/root/study/qt/video/FC/demo/videoplayer.js
+--json
+/run/media/root/study/qt/video/FC/demo/build/Desktop_Qt_6_9_1-Debug/appdemo_qmllint.json

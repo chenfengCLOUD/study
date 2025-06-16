@@ -1,0 +1,10 @@
+--resource
+/run/media/root/study/qt/video/FC/demo/build/Desktop_Qt_6_9_1-Debug/.qt/rcc/qmake_demo.qrc
+--resource
+/run/media/root/study/qt/video/FC/demo/build/Desktop_Qt_6_9_1-Debug/.qt/rcc/appdemo_raw_qml_0.qrc
+/qt/qml/demo/Main.qml
+/qt/qml/demo/Actions.qml
+/qt/qml/demo/Content.qml
+/qt/qml/demo/Dialogs.qml
+/qt/qml/demo/Main.qml
+/qt/qml/demo/videoplayer.js

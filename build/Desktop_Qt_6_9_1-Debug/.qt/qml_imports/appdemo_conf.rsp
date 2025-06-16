@@ -1,0 +1,14 @@
+-rootPath
+/run/media/root/study/qt/video/FC/demo
+-cmake-output
+-output-file
+/run/media/root/study/qt/video/FC/demo/build/Desktop_Qt_6_9_1-Debug/.qt/qml_imports/appdemo_conf.cmake
+-importPath
+/run/media/root/study/qt/video/FC/demo/build/Desktop_Qt_6_9_1-Debug/demo
+-importPath
+/run/media/root/study/qt/video/FC/demo/build/Desktop_Qt_6_9_1-Debug
+-importPath
+/opt/Qt/6.9.1/gcc_64/qml
+-qrcFiles
+/run/media/root/study/qt/video/FC/demo/build/Desktop_Qt_6_9_1-Debug/.qt/rcc/qmake_demo.qrc
+/run/media/root/study/qt/video/FC/demo/build/Desktop_Qt_6_9_1-Debug/.qt/rcc/appdemo_raw_qml_0.qrc

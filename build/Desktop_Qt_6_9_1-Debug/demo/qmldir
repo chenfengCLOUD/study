@@ -1,0 +1,9 @@
+module demo
+typeinfo appdemo.qmltypes
+prefer :/qt/qml/demo/
+Main 1.0 Main.qml
+Actions 1.0 Actions.qml
+Content 1.0 Content.qml
+Dialogs 1.0 Dialogs.qml
+Main 1.0 Main.qml
+

@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/qt/qml/demo/">
+    <file alias="Main.qml">/run/media/root/study/qt/video/FC/demo/Main.qml</file>
+    <file alias="Actions.qml">/run/media/root/study/qt/video/FC/demo/Actions.qml</file>
+    <file alias="Content.qml">/run/media/root/study/qt/video/FC/demo/Content.qml</file>
+    <file alias="Dialogs.qml">/run/media/root/study/qt/video/FC/demo/Dialogs.qml</file>
+    <file alias="Main.qml">/run/media/root/study/qt/video/FC/demo/Main.qml</file>
+    <file alias="videoplayer.js">/run/media/root/study/qt/video/FC/demo/videoplayer.js</file>
+    <file alias="CMakeLists.txt">/run/media/root/study/qt/video/FC/demo/CMakeLists.txt</file>
+  </qresource>
+</RCC>
+

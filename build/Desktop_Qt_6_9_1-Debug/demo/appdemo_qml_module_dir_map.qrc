@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/demo">/run/media/root/study/qt/video/FC/demo/build/Desktop_Qt_6_9_1-Debug/demo</file>
+
+  </qresource>
+</RCC>
